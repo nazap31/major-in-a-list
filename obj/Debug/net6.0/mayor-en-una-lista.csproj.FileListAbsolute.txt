@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\bin\Debug\net6.0\mayor-en-una-lista.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\bin\Debug\net6.0\mayor-en-una-lista.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\bin\Debug\net6.0\mayor-en-una-lista.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\bin\Debug\net6.0\mayor-en-una-lista.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\bin\Debug\net6.0\mayor-en-una-lista.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\refint\mayor-en-una-lista.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\mayor-en-una-lista.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 12-Buscar el mayor en una lista en  C#\mayor-en-una-lista\obj\Debug\net6.0\ref\mayor-en-una-lista.dll
